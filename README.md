@@ -1,13 +1,18 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/WaxloQed)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12992354&assignment_repo_type=AssignmentRepo)
-# CMPUT 291 Project 2 - Fall 2023  
-Group member names and ccids (3-4 members)  
+# Twitter-Like API w/ MongoDB  
+	This project is a social media application implemented in Python using MongoDB. It allows users to perform various social media interactions such as composing tweets, listing top tweets and users, as well as searching for users and tweets based on specific keywords. The project creates a MongoDB collection, builds a document store, and then operates on it in a way which involves database management, user interactions, and data retrieval, providing a basic social media experience within a command-line interface.
+ 
+User guide available in the Design Document
 
-  fgarcia, Francis Garcia
+This was a group collaboration. 
+
+Members: 
+  
+  fgarcia, Francis Garcia 
 
   aqutub, Ayra Qutub
 
   ruchali, Ruchali Aery
 
   cejirohe, Cejiro Roque
-# We did not collaborate with anyone else.  
+  
+Note: To use system, the database file must be in the same folder as all files
